@@ -12,3 +12,7 @@ function add(a, b) {
 function divideBy3() {
   number /=3
 }
+
+function(add(5, 10)) {
+  var add(5, 10).equal(5 + 10)
+}
