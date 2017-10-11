@@ -43,5 +43,5 @@ function makeInt(n) {
 
 var n = "2"
 function makeInt(n) {
-  return parseInt(n, 2);
+  return parseInt('n', 2);
 }
