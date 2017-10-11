@@ -12,4 +12,3 @@ function add(a, b) {
 function divideBy3() {
   number /=3
 }
-
